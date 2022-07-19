@@ -1,0 +1,3 @@
+[submodule "braids-app"]
+	path = braids-app
+	url = https://github.com/AlexandrFedoseev/braids-app
